@@ -6,9 +6,10 @@ ITIID-4 || Móviles || Hernández Arciniega Juan Pablo
 
 ## 📚 Tabla de Contenido
 
-- [Descripción](#descripción)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Tecnologías](#tecnologías)
-- [Autor](#autor)
+## 📦 Inventario de Productos
+
+| Ejercicio  | Nombre     | Descripción                                  |
+|:----------:|------------------|-------------------------------------------|
+| 01         | _holaMundo.Dart  | Adidas Leistung 16 2.0 Men's              | 
+| 02         | _DataTypes.Dart  | Nike Romaleos 3 Men's                     | 
+| 03         | _finalConst.Dart | Nike Romaleos 3 Women's                   | 
