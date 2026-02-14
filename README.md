@@ -6,8 +6,8 @@ ITIID-4 || Móviles || Hernández Arciniega Juan Pablo
 
 | No. Ejercicio |        Nombre       | Descripción                                       |
 |:-------------:|---------------------|---------------------------------------------------|
-| 01_           | holaMundo.dart      | Este primer codigo muestra el uso de la función print para imprimir un mensaje|
-| 02_           | datatypes.dart      |                                                   |
+| 01_           | holaMundo.dart      | Este primer codigo muestra el uso de la función print para imprimir un mensaje.|
+| 02_           | datatypes.dart      | Este codigo presentó todos aquellos tipos de datos que pueden usarse en dart (int, double, string, bool).|
 | 03_           | finalConst.dart     |                                                   |
 | 04_           | comments.dart       |                                                   |
 | 05_           | mathOperators.dart  |                                                   |
