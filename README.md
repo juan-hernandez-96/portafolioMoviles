@@ -29,6 +29,9 @@ ITIID-4 || Móviles || Hernández Arciniega Juan Pablo
 
 
 ## 💻*Unidad 2*
+
+| No. Ejercicio |        Nombre       | Descripción                                       |
+|:-------------:|---------------------|---------------------------------------------------|
 | 20a_          | [factorial.dart](Practicas_Dart/20a_factorial.dart)| Ejemplo rápido de un programa que muestra el factorial de un número.|
 | 20b_          | [factorial.dart](Practicas_Dart/20b_factorial.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
 
