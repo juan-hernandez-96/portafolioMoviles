@@ -34,4 +34,11 @@ ITIID-4 || Móviles || Hernández Arciniega Juan Pablo
 |:-------------:|---------------------|---------------------------------------------------|
 | 20a_          | [factorial.dart](Practicas_Dart/Unidad_2/20a_factorial.dart)| Ejemplo rápido de un programa que muestra el factorial de un número.|
 | 20b_          | [factorial.dart](Practicas_Dart/Unidad_2/20b_factorial.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| 20c_          | [factorial.dart](Practicas_Dart/Unidad_2/20c_factorial.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| 21_          | [sumass.dart](Practicas_Dart/Unidad_2/21_sumass.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| 22_          | [rear.dart](Practicas_Dart/Unidad_2/22_rear.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| 23_          | [stacks.dart](Practicas_Dart/Unidad_2/23_stacks.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| 24_          | [tryCatch.dart](Practicas_Dart/Unidad_2/24_tryCatch.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| 25_          | [test.dart](Practicas_Dart/Unidad_2/25_test.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| //_          | [test.dart](Practicas_Dart/Unidad_2/test.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
 
