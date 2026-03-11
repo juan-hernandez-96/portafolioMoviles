@@ -40,5 +40,5 @@ ITIID-4 || Móviles || Hernández Arciniega Juan Pablo
 | 23_          | [stacks.dart](Practicas_Dart/Unidad_2/23_stacks.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
 | 24_          | [tryCatch.dart](Practicas_Dart/Unidad_2/24_tryCatch.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
 | 25_          | [test.dart](Practicas_Dart/Unidad_2/25_test.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
-| //_          | [test.dart](Practicas_Dart/Unidad_2/test.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
+| //_          | [Test.dart](Practicas_Dart/Unidad_2/Test.dart)| Ejercicio que se realizó en clase para conocer el factorial de un número, solo que en esta ocasión se hizo uso de funciones para llamar la operación hacia el código principal.|
 
